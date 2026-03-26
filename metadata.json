@@ -1,0 +1,5 @@
+{
+  "name": "DealFinder",
+  "description": "A full-stack web application to search and compare product prices across multiple e-commerce platforms.",
+  "requestFramePermissions": []
+}
